@@ -1,0 +1,10 @@
+ "name": "bitcoincent",
+    "website": "https://sites.google.com/view/btcctoken/home?authuser=1",
+    "description": "Bitcoincent(BTCC) is a polygon blockchain
+token.",
+    "explorer": "https://polygonscan.com/token/0x94e145605d6ea87466a446d98fe754ab4747e804",
+    "type": "ERC20",
+    "symbol": "BTCC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x94E145605d6Ea87466a446d98Fe754aB4747e804"
